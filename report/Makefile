@@ -1,6 +1,7 @@
 build:
 	latexmk -pdf -output-directory=_build УИТПиИМ_ПО-4_Галанин_лаб1.tex
 	latexmk -pdf -output-directory=_build УИТПиИМ_ПО-4_Галанин_лаб2.tex
+	latexmk -pdf -output-directory=_build УИТПиИМ_ПО-4_Галанин_лаб3.tex
 
 clean:
 	rm -rfv ./*/*.aux
