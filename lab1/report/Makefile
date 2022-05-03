@@ -1,5 +1,5 @@
 build:
-	latexmk -pdf -output-directory=_build gpi_yitpiim6_rep_lab1.tex
+	latexmk -pdf -output-directory=_build УИТПиИМ_ПО-4_Галанин_лаб1.tex
 
 clean:
 	rm -rfv ./*/*.aux
