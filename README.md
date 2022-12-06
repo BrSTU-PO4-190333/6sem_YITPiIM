@@ -1,0 +1,3 @@
+```bash
+make # Generate report
+```
